@@ -1,0 +1,18 @@
+.profile {
+    background: tomato;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #353432;
+    font-family: sans-serif;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 999em;
+}

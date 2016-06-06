@@ -1,0 +1,9 @@
+.scan {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.code {
+    width: 50%;
+}

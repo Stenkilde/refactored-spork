@@ -1,0 +1,28 @@
+.login {
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.input {
+    background: #FAFAFA;
+    padding: 6px 10px;
+    outline: none;
+}
+
+.input:focus {
+    border: solid 1px tomato;
+}
+
+.button {
+    background: tomato;
+    padding: 6px 10px;
+    text-align: center;
+}

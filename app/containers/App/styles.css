@@ -1,0 +1,16 @@
+.navigation {
+    background: tomato;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    margin: 0 5px;
+}
+
+.grow {
+    text-align: center;
+    flex: 1 1 auto;
+}

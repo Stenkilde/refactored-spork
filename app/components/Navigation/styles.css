@@ -1,0 +1,10 @@
+.navigation {
+    display: flex;
+    margin-bottom: 10px;
+    margin-bottom: 24px;
+}
+
+.grow {
+    flex: 1 1 auto;
+    text-align: center;
+}
